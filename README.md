@@ -1,5 +1,4 @@
 <img src=/jtlogo.png>
-# tfSecure
 Security Management Center
 
 # tfSecure - Security Operations Management System
