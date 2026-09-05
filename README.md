@@ -1,4 +1,4 @@
-<img src=/tflogo.png>
+<img src=/jtlogo.png>
 # tfSecure
 Security Management Center
 
